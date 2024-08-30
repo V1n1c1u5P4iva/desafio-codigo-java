@@ -5,4 +5,4 @@ Este repositório contém vários exemplos de código simples desenvolvidos em J
 ## Códigos Disponíveis
 
 ### 1. Conta Banco
-O primeiro código do repositório é um exemplo de implementação de uma "Conta Banco". Este código demonstra operações básicas como criação de conta, depósitos, saques e consulta de saldo.
+Este projeto é uma solução para um desafio de programação em Java. A aplicação consiste em um programa que coleta informações do usuário sobre uma conta bancária e exibe uma mensagem de confirmação com esses dados.
